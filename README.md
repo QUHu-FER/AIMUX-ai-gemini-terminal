@@ -33,4 +33,10 @@ Pertama, clone repository ini ke mesin lokal Anda dengan menggunakan perintah be
 
 ```bash
 git clone https://github.com/QUHu-FER/AIMUX-ai-gemini-terminal.git
-cd repository-name
+cd AIMUX-ai-gemini-terminal
+pip install -r modul.txt
+
+RUN FILE MAIN.PY
+```bash
+python main.py
+
