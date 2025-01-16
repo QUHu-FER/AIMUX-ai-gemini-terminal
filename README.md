@@ -39,4 +39,8 @@ pip install -r modul.txt
 RUN FILE MAIN.PY
 ```bash
 python main.py
+```
+
+untuk mendapatkan api key anda bisa ke web dibawah ini ,dan create api key :
+https://aistudio.google.com/app/apikey 
 
