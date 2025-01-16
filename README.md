@@ -32,5 +32,5 @@ Ikuti langkah-langkah di bawah untuk memulai dengan chatbot Aimux Anda!
 Pertama, clone repository ini ke mesin lokal Anda dengan menggunakan perintah berikut:
 
 ```bash
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/QUHu-FER/AIMUX-ai-gemini-terminal.git
 cd repository-name
